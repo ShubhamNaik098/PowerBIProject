@@ -1,6 +1,6 @@
 # Power BI Project
 
-This repository contains a Power BI report designed to provide insights into sales performance, customer behavior, financial metrics, etc.. 
+This repository contains a Power BI report designed to provide insights into road accident, etc.. 
 The `.pbix` file included in this repository can be opened and edited using Microsoft Power BI Desktop.
 
 ## 📊 Project Overview
